@@ -5,7 +5,10 @@ const ll Q = 1000 + 9;
 const ll MOD = 998244353;
 void solve(){
     int i;cin>>i;
+    while(i--){
     cout<<i;
+    }
+    
 }
 int main()
 {
